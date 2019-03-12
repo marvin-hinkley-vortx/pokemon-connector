@@ -7,6 +7,6 @@
       "addonUrl": "https://github.com/marvin-hinkley-vortx/pokemon-connector",
       "supportUrl": "https://github.com/marvin-hinkley-vortx/pokemon-connector/issues",
       "description": "Get Pokemon species details.",
-      "sources": ["npm"]
+      "sources": ["POKEAPI"]
     }
   }
