@@ -1,0 +1,12 @@
+{
+    "dataStudio": {
+      "name": "Pokemon API Connector",
+      "logoUrl": "https://seeklogo.com/images/P/pokeball-logo-DC23868CA1-seeklogo.com.png",
+      "company": "Vortx, Inc.",
+      "companyUrl": "https://www.aspdotnetstorefront.com/",
+      "addonUrl": "https://github.com/marvin-hinkley-vortx/pokemon-connector",
+      "supportUrl": "https://github.com/marvin-hinkley-vortx/pokemon-connector/issues",
+      "description": "Get Pokemon species details.",
+      "sources": ["npm"]
+    }
+  }
